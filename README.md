@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aykhnnri
-- 👀 I’m interested in artificial intelligence, computer languages, database, machine learning.
+- 👀 I’m interested in artificial intelligence, programming languages, database, machine learning.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : aykhannuri02@outlook.com
